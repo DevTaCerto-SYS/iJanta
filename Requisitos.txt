@@ -1,0 +1,15 @@
+Requisitos obrigatorios:
+Utilizar matriz para fornecer o custo de produção em reais dos pratos, p1, p2, p3
+Customizar valor de porções separadas
+Modificar valor dos pratos e das porções
+Calcular automaticamente valor de produção e final do prato
+Modificar posteriormente a quantidade de porções e valores dos pratos
+Validar todas as opções e informações
+
+
+Requisitos opcionais:
+interface amigavel
+banco de dados em arquivo de texto
+alterar nome dos pratos
+opção de incluir outros pratos
+
